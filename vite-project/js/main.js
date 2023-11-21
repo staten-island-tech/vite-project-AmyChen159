@@ -6,3 +6,5 @@ document.querySelector('#app').innerHTML = `
 `;
 
 console.log(characters);
+
+//npm inntall aos --save how do i stop vite app bhhh
