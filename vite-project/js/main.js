@@ -7,4 +7,4 @@ document.querySelector('#app').innerHTML = `
 
 console.log(characters);
 
-//npm install aos --save how do i stop vite app bhhh
+//npm install aos --save 

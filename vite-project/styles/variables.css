@@ -5,3 +5,15 @@ body {
 h1 {
     text-align: center;
 }
+
+#app{
+    background-color: blue;
+    height: 200vh;
+}
+
+.animation-test {
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 100px;
+    color: burlywood;
+}
