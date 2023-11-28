@@ -6,7 +6,7 @@ const characters = [
         element: "Pyro",
         region: "Mondstadt",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Amber_Icon.png/revision/latest?cb=20210213161233"
+        icon: "./amber.webp"
     },
     {
         name: "Barbara",
