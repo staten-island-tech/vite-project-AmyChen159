@@ -6,12 +6,12 @@ document.querySelector('#app').innerHTML = `
 `;
 
 function createCard(card) {
-  document.querySelector('#container').insertAdjacentElement(
+  document.querySelector('#container').insertAdjacentHTML(
     `afterbegin`,
     `<div class="gallery">
-      <h2>${card.name}</h2> 
-      <img src="${card.icon}"alt=""></img>
-      <h3>${card.weapon} | ${card.element}</h3>
+      <h2 id="">${card.name}</h2> 
+      <img src="${card.icon}"/>
+      <h3>${card.element} | ${card.weapon}</h3>
       <h3>${card.region}</h3>
       <h3>${card.rarity}</h3>
     </div>`
