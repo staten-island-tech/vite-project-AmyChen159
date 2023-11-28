@@ -7,13 +7,13 @@ document.querySelector('#app').innerHTML = `
 
 function createCard(card) {
   document.querySelector('#container').insertAdjacentHTML(
-    `afterbegin`,
+    `beforeend`,
     `<div class="gallery">
-      <h2 id="character-name">${card.name}</h2> 
-      <img src="${card.icon}"/>
-      <h3>${card.element} | ${card.weapon}</h3>
-      <h3>${card.region}</h3>
-      <h3>${card.rarity}</h3>
+      <h2 id="charactername">${card.name}</h2> 
+      <img id="imageicon" src="${card.icon}"/>
+      <h3 class="bottomtext">${card.element} | ${card.weapon}</h3>
+      <h3 class="bottomtext">${card.region}</h3>
+      <h3 class="bottomtext">${card.rarity}</h3>
     </div>`
     ) 
 }

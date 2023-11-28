@@ -14,7 +14,7 @@ const characters = [
         element: "Hydro",
         region: "Mondstadt",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Barbara_Icon.png/revision/latest?cb=20230302072845",
+        icon: "./barbara.webp",
     },
     {
         name: "Beidou",
@@ -22,7 +22,7 @@ const characters = [
         element: "Electro",
         region: "Liyue",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Beidou_Icon.png/revision/latest?cb=20210214011821",
+        icon: "./beidou.webp",
     },
     {
         name: "Bennett",
@@ -30,7 +30,7 @@ const characters = [
         element: "Pyro",
         region: "Mondstadt",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Bennett_Icon.png/revision/latest?cb=20210214011829",
+        icon: "./bennett.webp",
     },
     {
         name: "Chongyun",
@@ -38,7 +38,7 @@ const characters = [
         element: "Cryo",
         region: "Liyue",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Chongyun_Icon.png/revision/latest?cb=20210213163430",
+        icon: "./chongyun.webp",
     },
     {
         name: "Diluc",
@@ -46,7 +46,7 @@ const characters = [
         element: "Pyro",
         region: "Mondstadt",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Diluc_Icon.png/revision/latest?cb=20210213163824",
+        icon: "./diluc.webp",
     },
     {
         name: "Fischl",
@@ -54,7 +54,7 @@ const characters = [
         element: "Electro",
         region: "Mondstadt",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Fischl_Icon.png/revision/latest?cb=20220627171007",
+        icon: "./fischl.webp",
     },
     {
         name: "Jean",
@@ -62,7 +62,7 @@ const characters = [
         element: "Anemo",
         region: "Mondstadt",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/6/64/Jean_Icon.png/revision/latest?cb=20220602180528",
+        icon: "./jean.webp",
     },
     {
         name: "Kaeya",
@@ -70,7 +70,7 @@ const characters = [
         element: "Cryo",
         region: "Mondstadt",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Kaeya_Icon.png/revision/latest?cb=20210214011902",
+        icon: "./kaeya.webp",
     },
     {
         name: "Keqing",
@@ -78,7 +78,7 @@ const characters = [
         element: "Electro",
         region: "Liyue",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Keqing_Icon.png/revision/latest?cb=20210213162751",
+        icon: "./keqing.webp",
     },
     {
         name: "Lisa",
@@ -86,7 +86,7 @@ const characters = [
         element: "Electro",
         region: "Mondstadt",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/6/65/Lisa_Icon.png/revision/latest?cb=20210213163538",
+        icon: "./lisa.webp",
     },
     {
         name: "Mona",
@@ -94,7 +94,7 @@ const characters = [
         element: "Hydro",
         region: "Mondstadt",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Mona_Icon.png/revision/latest?cb=20220601033558",
+        icon: "./mona.webp",
     },
     {
         name: "Ningguang",
@@ -102,7 +102,7 @@ const characters = [
         element: "Geo",
         region: "Liyue",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Ningguang_Icon.png/revision/latest?cb=20220210040239",
+        icon: "./ningguang.webp",
     },
     {
         name: "Noelle",
@@ -110,7 +110,7 @@ const characters = [
         element: "Geo",
         region: "Mondstadt",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Noelle_Icon.png/revision/latest?cb=20210214011929",
+        icon: "./noelle.webp",
     },
     {
         name: "Qiqi",
@@ -118,7 +118,7 @@ const characters = [
         element: "Cryo",
         region: "Liyue",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Qiqi_Icon.png/revision/latest?cb=20220316020612",
+        icon: "./qiqi.webp",
     },
     {
         name: "Razor",
@@ -126,7 +126,7 @@ const characters = [
         element: "Electro",
         region: "Mondstadt",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Razor_Icon.png/revision/latest?cb=20210214011936",
+        icon: "./razor.webp",
     },
     {
         name: "Sucrose",
@@ -134,7 +134,7 @@ const characters = [
         element: "Anemo",
         region: "Mondstadt",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Sucrose_Icon.png/revision/latest?cb=20210213163209",
+        icon: "./sucrose.webp",
     },
     {
         name: "Venti",
@@ -142,7 +142,7 @@ const characters = [
         element: "Anemo",
         region: "Mondstadt",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Venti_Icon.png/revision/latest?cb=20210214011949",
+        icon: "./venti.webp",
     },
     {
         name: "Xiangling",
@@ -150,7 +150,7 @@ const characters = [
         element: "Pyro",
         region: "Liyue",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Xiangling_Icon.png/revision/latest?cb=20210214011301",
+        icon: "./xiangling.webp",
     },
     {
         name: "Xingqiu",
@@ -158,7 +158,7 @@ const characters = [
         element: "Hydro",
         region: "Liyue",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Xingqiu_Icon.png/revision/latest?cb=20210214012057",
+        icon: "./xingqiu.webp",
     },
     {
         name: "Klee",
@@ -166,7 +166,7 @@ const characters = [
         element: "Pyro",
         region: "Mondstadt",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Klee_Icon.png/revision/latest?cb=20210214011911",
+        icon: "./klee.webp",
     },
     {
         name: "Diona",
@@ -174,7 +174,7 @@ const characters = [
         element: "Cryo",
         region: "Mondstadt",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Diona_Icon.png/revision/latest?cb=20220210035554",
+        icon: "./diona.webp",
     },
     {
         name: "Tartaglia",
@@ -182,7 +182,7 @@ const characters = [
         element: "Hydro",
         region: "Snezhnaya",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Tartaglia_Icon.png/revision/latest?cb=20210213163935",
+        icon: "./childe.webp",
     },
     {
         name: "Xinyan",
@@ -190,7 +190,7 @@ const characters = [
         element: "Pyro",
         region: "Liyue",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Xinyan_Icon.png/revision/latest?cb=20210213163013",
+        icon: "./xinyan.webp",
     },
     {
         name: "Zhongli",
@@ -198,7 +198,7 @@ const characters = [
         element: "Geo",
         region: "Liyue",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Zhongli_Icon.png/revision/latest?cb=20210213163026",
+        icon: "./zhongli.webp",
     },
     {
         name: "Albedo",
@@ -206,7 +206,7 @@ const characters = [
         element: "Geo",
         region: "Mondstadt",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/3/30/Albedo_Icon.png/revision/latest?cb=20210213163457",
+        icon: "./albedo.webp",
     },
     {
         name: "Ganyu",
@@ -214,7 +214,7 @@ const characters = [
         element: "Cryo",
         region: "Liyue",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Ganyu_Icon.png/revision/latest?cb=20230519012425",
+        icon: "./ganyu.webp",
     },
     {
         name: "Xiao",
@@ -222,7 +222,7 @@ const characters = [
         element: "Anemo",
         region: "Liyue",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Xiao_Icon.png/revision/latest?cb=20210214012045",
+        icon: "./xiao.webp",
     },
     {
         name: "Hutao",
@@ -230,7 +230,7 @@ const characters = [
         element: "Pyro",
         region: "Liyue",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Hu_Tao_Icon.png/revision/latest?cb=20210228210611",
+        icon: "./hutao.webp",
     },
     {
         name: "Rosaria",
@@ -238,7 +238,7 @@ const characters = [
         element: "Cryo",
         region: "Mondstadt",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Rosaria_Icon.png/revision/latest?cb=20220601032845",
+        icon: "./rosaria.webp",
     },
     {
         name: "Yanfei",
@@ -246,14 +246,14 @@ const characters = [
         element: "Pyro",
         region: "Liyue",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/5/54/Yanfei_Icon.png/revision/latest?cb=20210422063525",
+        icon: "./yanfei.webp",
     }, {
         name: "Eula",
         weapon: "Claymore",
         element: "Cryo",
         region: "Mondstadt",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/a/af/Eula_Icon.png/revision/latest?cb=20210511040616",
+        icon: "./eul.webp",
     },
     {
         name: "Kaedehara Kazuha",
@@ -261,7 +261,7 @@ const characters = [
         element: "Anemo",
         region: "Inazuma",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Kaedehara_Kazuha_Icon.png/revision/latest?cb=20210623063513",
+        icon: "./kazuha.webp",
     },
     {
         name: "Kamisato Ayaka",
@@ -269,21 +269,21 @@ const characters = [
         element: "Cryo",
         region: "Inazuma",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Kamisato_Ayaka_Icon.png/revision/latest?cb=20211221231648",
+        icon: "./ayaka.webp",
     }, {
         name: "Sayu",
         weapon: "Claymore",
         element: "Anemo",
         region: "Inazuma",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Sayu_Icon.png/revision/latest?cb=20210810101044",
+        icon: "./sayu.webp",
     },{
         name: "Yoimiya",
         weapon: "Bow",
         element: "Pyro",
         region: "Inazuma",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Yoimiya_Icon.png/revision/latest?cb=20220214235604",
+        icon: "./yoimiya.webp",
     },
     {
         name: "Kujou Sara",
@@ -291,21 +291,21 @@ const characters = [
         element: "Electro",
         region: "Inazuma",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Kujou_Sara_Icon.png/revision/latest?cb=20220210040844",
+        icon: "./sara.webp",
     }, {
         name: "Raiden Shogun",
         weapon: "Polearm",
         element: "Electro",
         region: "Inazuma",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Raiden_Shogun_Icon.png/revision/latest?cb=20220316020439",
+        icon: "./raiden.webp",
     },{
         name: "Sangonomiya Kokomi",
         weapon: "Catalyst",
         element: "Hydro",
         region: "Inazuma",
         rarity: "5 star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Sangonomiya_Kokomi_Icon.png/revision/latest?cb=20210921103819",
+        icon: "./kokomi.webp",
     },
     {
         name: "Thoma",
@@ -313,7 +313,7 @@ const characters = [
         element: "Pyro",
         region: "Inazuma",
         rarity: "4 Star",
-        icon: "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Thoma_Icon.png/revision/latest?cb=20211014011046",
+        icon: "./thoma.webp",
     }, 
 ]
 
