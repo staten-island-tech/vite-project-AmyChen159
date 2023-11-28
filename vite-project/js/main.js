@@ -9,7 +9,7 @@ function createCard(card) {
   document.querySelector('#container').insertAdjacentHTML(
     `afterbegin`,
     `<div class="gallery">
-      <h2 id="">${card.name}</h2> 
+      <h2 id="character-name">${card.name}</h2> 
       <img src="${card.icon}"/>
       <h3>${card.element} | ${card.weapon}</h3>
       <h3>${card.region}</h3>
