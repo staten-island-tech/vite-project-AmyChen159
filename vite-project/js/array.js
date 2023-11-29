@@ -45,7 +45,7 @@ const characters = [
         weapon: "Claymore",
         element: "Pyro",
         region: "Mondstadt",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./diluc.webp",
     },
     {
@@ -61,7 +61,7 @@ const characters = [
         weapon: "Sword",
         element: "Anemo",
         region: "Mondstadt",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./jean.webp",
     },
     {
@@ -77,7 +77,7 @@ const characters = [
         weapon: "Sword",
         element: "Electro",
         region: "Liyue",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./keqing.webp",
     },
     {
@@ -93,7 +93,7 @@ const characters = [
         weapon: "Catalyst",
         element: "Hydro",
         region: "Mondstadt",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./mona.webp",
     },
     {
@@ -117,7 +117,7 @@ const characters = [
         weapon: "Sword",
         element: "Cryo",
         region: "Liyue",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./qiqi.webp",
     },
     {
@@ -141,7 +141,7 @@ const characters = [
         weapon: "Bow",
         element: "Anemo",
         region: "Mondstadt",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./venti.webp",
     },
     {
@@ -165,7 +165,7 @@ const characters = [
         weapon: "Catalyst",
         element: "Pyro",
         region: "Mondstadt",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./klee.webp",
     },
     {
@@ -181,7 +181,7 @@ const characters = [
         weapon: "Bow",
         element: "Hydro",
         region: "Snezhnaya",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./childe.webp",
     },
     {
@@ -197,7 +197,7 @@ const characters = [
         weapon: "Polearm",
         element: "Geo",
         region: "Liyue",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./zhongli.webp",
     },
     {
@@ -205,15 +205,15 @@ const characters = [
         weapon: "Sword",
         element: "Geo",
         region: "Mondstadt",
-        rarity: "5 star",
-        icon: "./albedo.webp",
+        rarity: "5 Star",
+        icon: "./albdeo.webp",
     },
     {
         name: "Ganyu",
         weapon: "Bow",
         element: "Cryo",
         region: "Liyue",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./ganyu.webp",
     },
     {
@@ -221,7 +221,7 @@ const characters = [
         weapon: "Polearm",
         element: "Anemo",
         region: "Liyue",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./xiao.webp",
     },
     {
@@ -229,7 +229,7 @@ const characters = [
         weapon: "Polearm",
         element: "Pyro",
         region: "Liyue",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./hutao.webp",
     },
     {
@@ -252,7 +252,7 @@ const characters = [
         weapon: "Claymore",
         element: "Cryo",
         region: "Mondstadt",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./eul.webp",
     },
     {
@@ -260,7 +260,7 @@ const characters = [
         weapon: "Sword",
         element: "Anemo",
         region: "Inazuma",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./kazuha.webp",
     },
     {
@@ -268,7 +268,7 @@ const characters = [
         weapon: "Sword",
         element: "Cryo",
         region: "Inazuma",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./ayaka.webp",
     }, {
         name: "Sayu",
@@ -282,7 +282,7 @@ const characters = [
         weapon: "Bow",
         element: "Pyro",
         region: "Inazuma",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./yoimiya.webp",
     },
     {
@@ -297,14 +297,14 @@ const characters = [
         weapon: "Polearm",
         element: "Electro",
         region: "Inazuma",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./raiden.webp",
     },{
         name: "Sangonomiya Kokomi",
         weapon: "Catalyst",
         element: "Hydro",
         region: "Inazuma",
-        rarity: "5 star",
+        rarity: "5 Star",
         icon: "./kokomi.webp",
     },
     {
