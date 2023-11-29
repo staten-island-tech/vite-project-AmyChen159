@@ -59,6 +59,14 @@ function() {
   createCard(array)
 }))
 
+let buttons2 = document.querySelectorAll(".secondbutton")
+buttons2.forEach((button) => button.addEventListener("click",
+function() {
+  let from = button.textContent
+  let array2 = characters.filter((el) => el.region.includes(from))
+  remove()
+  createCard(array2)
+}))
 
 /* 
 DOMselectors.fivestar.addEventListener("click", function() {
