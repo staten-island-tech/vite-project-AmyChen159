@@ -38,6 +38,57 @@ h1 {
     text-align: center;
 }
 
+.buttons {
+    text-align: center;
+}
+
+.themebutton {
+    padding: 1rem 2rem;
+    display: block;
+    margin: 1rem auto;
+    font-size: 1rem;
+    border: none;
+    border-radius: 10rem;
+    background-color: var(--font);
+}
+
+.themebutton:hover {
+    background-color: var(--primary);
+}
+
+.button {
+    padding: 1rem 2rem;
+    display: inline-block;
+    margin: 1rem auto;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 10rem;
+    background-color: var(--font);
+}
+
+.button:hover {
+    background-color: var(--primary);
+}
+
+.secondbutton {
+    padding: 1rem 2rem;
+    display: inline-block;
+    margin: 1rem auto;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 10rem; 
+    background-color: var(--font);
+    
+}
+
+.secondbutton:hover {
+    background-color: var(--primary);
+}
+
 :root {
     /* primary, secondary, font, accent */
     --blue: #427D9D; 

@@ -14,7 +14,6 @@ const DOMselectors = {
   inazuma: document.getElementById("inazuma"),
 }
 
-
 function createCard(cards) {
   cards.forEach(card => {
     document.querySelector('#container').insertAdjacentHTML(
