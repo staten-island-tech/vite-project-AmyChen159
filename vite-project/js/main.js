@@ -1,18 +1,10 @@
 import '../styles/style.css';
 import { characters } from './array';
+import { DOMselectors } from './dom';
 
 /* document.querySelector('#app').innerHTML = `
   <h1>Hello Vite???</h1>
 `; */
-
-const DOMselectors = {
-  theme: document.getElementById("theme"),
-  fivestar: document.getElementById("fivestar"),
-  fourstar: document.getElementById("fourstar"), 
-  mondstadt: document.getElementById("mondstadt"),
-  liyue: document.getElementById("liyue"),
-  inazuma: document.getElementById("inazuma"),
-}
 
 function createCard(cards) {
   cards.forEach(card => {
